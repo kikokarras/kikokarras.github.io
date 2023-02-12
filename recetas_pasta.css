@@ -1,0 +1,29 @@
+.recetas{
+    width: 33%;
+  }
+
+  #receta1{
+    margin-top: 25px;
+  }
+#receta2{
+    float: left;
+    margin-left: 20px;
+    margin-right: 25px;
+}
+#receta3{
+    margin-right: 25px;
+}
+
+table, td, th{
+  background-color: aquamarine;
+  border: 1px solid black;
+ }
+
+ ol{
+  background-color: goldenrod;
+  border: 1px solid black;
+ }
+ .fpasta{
+  height: 125px;
+  width: 125px;
+ }

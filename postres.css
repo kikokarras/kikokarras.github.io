@@ -1,0 +1,42 @@
+.recetas{
+    width: 50%;
+    text-align: center;
+}
+
+#receta1{
+    float: right;
+    margin: 35px auto;
+}
+
+#receta2{ 
+    float: left;
+    margin: 35px auto; 
+}
+
+#receta3{
+    margin-left: 300px;
+    margin-top: 300px;
+}
+
+.videos{
+    width: 65%;
+}
+
+footer{
+    margin-top: 25px;
+}
+
+table, td, th{
+    background-color: aquamarine;
+    border: 1px solid black;
+
+   }
+
+ol{
+    background-color: goldenrod;
+}
+#ingrediente{
+    margin-right: 20px;
+}
+
+

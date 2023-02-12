@@ -1,0 +1,39 @@
+.recetas{
+    width: 33%;
+  }
+
+  img{
+    height: 20%;
+    width: 20%;
+  }
+  #receta1{
+    float: left;
+    margin-left: 75px;
+    margin-top: 50px;
+  }
+  
+
+  #receta2{
+    margin-top: 450px;
+    margin-left: 580px;
+
+  }
+
+ #receta3{
+    
+    margin-left: 75px;
+    margin-top: 0px;
+ }
+ 
+ .carne{
+  width: 80%;
+  height: 40%;
+ }
+
+ table, td, th{
+  background-color: aquamarine;
+  border: 1px solid black;
+ }
+ ol{
+  background-color: goldenrod;
+ }
